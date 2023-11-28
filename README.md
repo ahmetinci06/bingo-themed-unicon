@@ -25,25 +25,25 @@ For advanced usage, you have some prerequisites to install. Then you can run it 
 * **Node Installation:** [Install node js](https://nodejs.org/en/download/)
 * **Gulp Installation:** Install gulp globally from your terminal
 
-```
+```js
 npm install --global gulp-cli
 ```
 
 Or visit the original [Gulp docs](https://gulpjs.com/docs/en/getting-started/quick-start)
 
-#### Local setup
+##### Local setup
 
-After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut <code>ctrl/cmd+\`</code>]
+After successfully installing those dependencies, open this theme with any IDE [[VS Code](https://code.visualstudio.com/) recommended], and then open the internal terminal of IDM [vs code shortcut  <code>ctrl/cmd+\`</code>]
 
 * Install dependencies
 
-```
+```node.js
 npm install
 ```
 
 * Run locally
 
-```
+```node.js
 npm run dev
 ```
 
@@ -53,7 +53,7 @@ After that, it will open up a preview of the template in your default browser, w
 
 After finishing all the customization, you can create a production build by running this command.
 
-```
+```node.js
 npm run build
 ```
 
