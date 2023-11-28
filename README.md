@@ -1,4 +1,12 @@
-# Bingo By Themefisher
+# TO-DO
+<https://docs.themefisher.com/guide/>
+<http://localhost:3000/>
+
+* **Need to found a CMS.**
+
+<https://github.com/InstantUpdate/CMS/tree/master>
+<https://sitecake.com/docs/install.html>
+## Bingo By Themefisher
 
 BINGO is a powerful Bootstrap Business Template from the Themefisher team. By using this theme, it will be possible for you to make your startup/business website and so on.
 
