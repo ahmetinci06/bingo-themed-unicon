@@ -3,13 +3,6 @@
 BINGO is a powerful Bootstrap Business Template from the Themefisher team. By using this theme, it will be possible for you to make your startup/business website and so on.
 
 <!-- demo -->
-## Example Site
-
-| [![](screenshots/homepage.png)](https://demo.themefisher.com/themefisher/bingo/) | [![](screenshots/about.png)](https://demo.themefisher.com/themefisher/bingo/about.html) | [![](screenshots/service.png)](https://demo.themefisher.com/themefisher/bingo/service.html) |
-|:---:|:---:|:---:|
-| **Homepage 1**  | **About**  | **Service**  |
-| [![](screenshots/portfolio.png)](https://demo.themefisher.com/themefisher/bingo/portfolio.html) | [![](screenshots/contact.png)](https://demo.themefisher.com/themefisher/bingo/contact.html) | [![](screenshots/404.png)](https://demo.themefisher.com/themefisher/bingo/404.html) |
-| **Portfolio** | **Contact** | **404** |
 
 👉🏻[View Live Preview](https://demo.themefisher.com/themefisher/bingo/)
 
@@ -67,17 +60,6 @@ npm run build
 Now you get a `theme` folder that has all the changes you have made. you can use this folder as your main theme.
 
 👉🏻 [visit documentation](https://docs.themefisher.com/bingo/)
-
-<!-- reporting issue -->
-## Reporting Issues
-
-We use GitHub Issues as the official bug tracker for the Meghna Template. Please Search [existing issues](https://github.com/themefisher/bingo/issues). Someone may have already reported the same problem.
-If your problem or idea has not been addressed yet, feel free to [open a new issue](https://github.com/themefisher/bingo/issues).
-
-<!-- support -->
-## Technical Support or Questions (Paid)
-
-If you have questions or need help integrating the product please [contact us](mailto:mehedi@themefisher.com) instead of opening an issue.
 
 <!-- licence -->
 ## License
